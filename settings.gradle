@@ -1,0 +1,2 @@
+rootProject.name = "MS_health"
+include ':app'
